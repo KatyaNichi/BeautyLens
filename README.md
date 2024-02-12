@@ -3,12 +3,15 @@
 BeautyLens is a mobile application developed for both iOS and Android platforms, focusing on providing users with information about various beauty products. Users can explore different categories of beauty products, view details about specific products, and filter products based on tags.
 
 ## Features
-Catalog: Browse a variety of beauty product categories.
-Product Details: View detailed information about specific beauty products, including images, brand, category, color, and pricing.
-Search: Search for products by name.
-Filter: Filter products based on tags (e.g., vegan, cruelty-free).
-External Links: Direct links to purchase products.
-Screenshots
+**Catalog:** Browse a variety of beauty product categories.
+
+**Product Details:** View detailed information about specific beauty products, including images, brand, category, color, and pricing.
+
+**Search:** Search for products by name.
+
+**Filter:** Filter products based on tags (e.g., vegan, cruelty-free).
+
+**External Links:** Direct links to purchase products.
 
 ## Getting Started
 ### Prerequisites
