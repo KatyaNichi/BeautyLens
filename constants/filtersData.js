@@ -1,0 +1,45 @@
+
+
+export const brandsList = [
+    'almay',
+    'alva',
+    'anna sui',
+    'annabelle',
+    'benefit',
+    'boosh',
+    'burt\'s bees',
+    'butter london',
+    'c\'est moi',
+    'cargo cosmetics',
+    'china glaze',
+    'clinique',
+    'coastal',
+    'classic creation',
+    'colourpop',
+    'covergirl ',
+    'dalish',
+    'deciem',
+    'dior',
+    'dr. hauschka',
+    'e.l.f',
+    'essie',
+    'fenty',
+    'glossier',
+  ];
+  
+  export const tagsList = [
+    'Peanut Free Product',
+    'Chemical Free',
+    'Dairy Free',
+    'EWG Verified',
+    'EcoCert',
+    'Vegan',
+    'Gluten Free',
+    'Hypoallergenic',
+    'No Talc',
+    'Non-GMO',
+    'Organic',
+    'silicone free',
+    'alcohol free',
+  ];
+  

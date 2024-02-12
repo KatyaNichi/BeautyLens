@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "TaroApp",
-    "slug": "TaroApp",
+    "name": "BeautyLens",
+    "slug": "TBeautyLens",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/makeup.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/images/makeup.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -15,8 +15,11 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ekaterina.beautylens",
+      "buildNumber":"5"
     },
+  
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
@@ -25,6 +28,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "773fc9e3-1dd2-4fe0-8722-3204b171738b"
+      }
     }
   }
 }
