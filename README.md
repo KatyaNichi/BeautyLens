@@ -36,6 +36,10 @@ Explore the catalog, view product details, search for specific products, and app
 
 ## Contact
 Developer: Ekaterina Nichiporenko
+
 Email: katya_nichiporenko@protonmail.com
+
 GitHub: [KatyaNichi](https://github.com/KatyaNichi/)
+
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ekaterina-nichiporenko-0b3223207/)
+
